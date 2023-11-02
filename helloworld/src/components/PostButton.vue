@@ -1,5 +1,5 @@
 <template>
-<button class="post-btn">Boton Prueba</button>
+<button class="post-btn">Boton Prueba copilot</button>
 </template>
 
 <script setup>
