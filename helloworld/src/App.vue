@@ -1,10 +1,10 @@
 <template>
-  <ExampleFor />
+  <ClassBind />
 </template>
 
 <script setup>
 // import CounterOption from "./components/CounterOption.vue";
-import ExampleFor from "./components/ExampleFor.vue";
+import ClassBind from "./components/ClassBind.vue";
 </script>
 
 <style>
