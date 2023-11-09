@@ -1,17 +1,14 @@
 <template>
   <p
-    v-bind:class="{
-      danger: hasError,
+    v-bind:style="{
+      backgroundColor: '#ccc',
+      color: '#fff',
+      padding: '10px',
+      borderRadius: '5px',
     }"
   >
     El mensaje se ha enviado sastifactoriamente.
   </p>
 </template>
-<script setup>
-    let hasError = false;
-</script>
-<style>
-.danger {
-  color: red;
-}
-</style>
+<script setup></script>
+<style></style>
